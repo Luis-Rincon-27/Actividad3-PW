@@ -1,0 +1,161 @@
+body{
+    background-color: #1d1b67;
+}
+
+
+.container {
+    display: grid;
+    align-items: center;
+    grid-template-columns: 1fr 0fr 1fr;
+    column-gap: 5px;
+    margin-left: auto;
+    margin-top: 20px;
+    background-color: #708cff;
+    border-radius: 16px;
+    width: 188px;
+}
+
+img{
+    width: 54px;
+}
+
+#img-folder{
+    width: 54px;
+    margin-left: 20px;
+    margin-right: 16px;
+    margin-top: -2px;
+}
+
+#img-folder-1{
+    width: 35px;
+    margin-bottom: -47px;
+}
+
+
+.create{
+    text-align: center;
+    display: flex;
+    background-color: #708cff;
+    margin-top: 48px;
+    height: 61px;
+    width: 422px;
+    border-radius: 9px;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+   
+
+input{
+    font-size: 19px;
+    border-radius: 7px;
+    border: 2px solid #e8e8e8;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.btn{
+    background-color: #b95acd;
+    border: none;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+    font-size: 19px;
+}
+
+.card{
+    width: 50%;
+    margin-top: 30px;
+    height: auto;
+    border-radius: 10px;
+}
+
+.row{
+    margin-top: 35px;
+}
+
+b{
+    font-weight: 700;
+    margin-left: 46px;
+}
+
+.card-body{
+    margin-top: -18px;
+    background-color: #708cff;
+    border-radius: 16px;
+}
+
+
+.container-directorio{
+    display: flex;
+    align-items: center;
+    grid-template-columns: 1fr 0fr 1fr;
+    column-gap: 5px;
+    margin-top: 20px;
+    background-color: #708cff;
+    border-radius: 16px;
+    width: 85%;
+    height: 79px;
+    margin-left: 46px;
+    margin-bottom: 30px;
+}
+
+.image-2{
+    margin-left: 21px;
+}
+
+.btn-2{
+    background-color: #4b90de;
+    font-size: 22px;
+    color: black;
+    margin-top: 64px;
+    border: none;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 5px;
+}
+
+.container-2{
+    text-align: center;
+}
+
+textarea{
+    font-size: 19px;
+    border-radius: 7px;
+    border: 2px solid #a5a5a5;
+    margin-left: auto;
+    margin-right: auto;
+    width: 79%;
+    resize: none;
+    border-radius: 8px;
+
+}
+
+.btn-back{
+    background-color: #708cff;
+    border: none;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 5px;
+    font-size: 19px;
+}
+
+.row{
+    margin-top: 35px;
+    margin-left: 54px;
+}
+
+.card-body{
+    margin-top: 0px;
+}
+
+.area{
+    text-align: center;
+}
